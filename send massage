@@ -1,0 +1,4 @@
+import pywhatkit as kit
+kit.sendwhatmsg(
+    "+91 9753449013","hello sir",22,10
+)
